@@ -47,21 +47,21 @@ const teamData = [
 function initCarousel() {
     const images = [
         { src: 'assets/events/5.jpg', title: 'karthigai Deepam 2024' },
-        { src: 'assets/events/1.jpg', title: 'Onam Fest 2024' },
-        { src: 'assets/events/2.jpg', title: 'Aadukalam 2024' },
-        { src: 'assets/events/3.jpg', title: 'Sports Day Highlights 2024' },
+        { src: 'assets/events/1.JPG', title: 'Onam Fest 2024' },
+        { src: 'assets/events/2.JPG', title: 'Aadukalam 2024' },
+        { src: 'assets/events/3.JPG', title: 'Sports Day Highlights 2024' },
         { src: 'assets/events/6.jpg', title: 'Karthigai Deepam 2024' },
         { src: 'assets/events/7.jpeg', title: 'Onam 2024' },
-        { src: 'assets/events/8.jpg', title: 'Pongal Celebration 2024' },
-        { src: 'assets/events/9.jpg', title: 'Onam 2023' },
+        { src: 'assets/events/8.JPG', title: 'Pongal Celebration 2024' },
+        { src: 'assets/events/9.JPG', title: 'Onam 2023' },
         { src: 'assets/events/10.jpg', title: 'Diwali 2024' },
         { src: 'assets/events/11.jpg', title: 'OpenMic Event 2024' },
         { src: 'assets/events/4.jpg', title: 'Karthigai Deepam 2024' },
         { src: 'assets/events/12.jpg', title: 'Texus DJ Night 2024' },
         { src: 'assets/events/13.jpg', title: 'Diwali 2023' },
-        { src: 'assets/events/14.jpg', title: 'Teachers Day 2024' },
-        { src: 'assets/events/15.jpg', title: 'Navaratri Celebration 2024' },
-        { src: 'assets/events/16.jpg', title: 'Aadukalam 2024' },
+        { src: 'assets/events/14.JPG', title: 'Teachers Day 2024' },
+        { src: 'assets/events/15.JPG', title: 'Navaratri Celebration 2024' },
+        { src: 'assets/events/16.JPG', title: 'Aadukalam 2024' },
 
         // Add more images and titles as needed
     ];
